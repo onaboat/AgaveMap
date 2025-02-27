@@ -1,4 +1,3 @@
-import Image from "next/image"
 import { TwitterCard } from "@/app/ui/twittercard"
 import { VideoCard } from "@/app/ui/videocard"
 import { Button } from "@/components/ui/button"
